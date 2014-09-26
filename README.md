@@ -18,3 +18,4 @@ npm install irc
 ```
 node bot.js
 ```
+
