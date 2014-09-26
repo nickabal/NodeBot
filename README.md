@@ -3,7 +3,8 @@ NodeBot
 
 An IRC bot written in node.js which can record channels
 
-h3. Usage:
+Usage:
+------
 
 Configure bot.js with your irc server.
 
