@@ -3,10 +3,10 @@ var fs = require('fs');
 var crypto = require('crypto');
 
 var config = {
-  channels: ["#rio"],
-  server: "irc.zenlair.net",
+  channels: ["#channel1"],
+  server: "irc.example.com",
   botName: "nodebot",
-  webserver: "73.162.12.127"
+  webserver: "<webserver address>"
 };
 
 // Join default channels in config
