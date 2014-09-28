@@ -11,7 +11,7 @@ Configure bot.js with your irc server.
 ## Install
 
 ```
-npm install irc
+npm install
 ```
 ## Start bot
 
