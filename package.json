@@ -1,0 +1,15 @@
+{
+  "name": "NodeBot",
+  "version": "1.0.0",
+  "description": "IRC recording bot",
+  "main": "bot.js",
+  "dependencies": {
+    "irc": "~0.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Abal",
+  "license": "MIT"
+}

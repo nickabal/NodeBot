@@ -132,7 +132,9 @@ bot.addListener("message", function(from, to, text, message) {
   if ( text.match(regexwb) ) {
     arrtext = text.split(" "); 
     var person = arrtext[1];
-    bot.say(to, "Welcome back "+person+"!");
+    if ( person ) {
+      bot.say(to, "Welcome back "+person+"!");
+    }
   }
 
 });
